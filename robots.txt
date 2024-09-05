@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nbmanning.github.io/sitemap.xml
