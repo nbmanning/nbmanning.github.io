@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm a PhD student and aspiring remote sensing scientist at the Center for Systems Integration & Sustainability at Michigan State University interested in using satellite data to measure changes in environmental systems.
+Welcome! I'm a PhD student and aspiring remote sensing scientist at the [Center for Systems Integration & Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University interested in using satellite data to measure changes in environmental systems.
 
 Currently, I study the interconnected effects of natural disasters across the globe using the metacoupling framework.
